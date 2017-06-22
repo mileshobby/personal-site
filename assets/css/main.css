@@ -2063,9 +2063,9 @@
 					width: auto;
 				}
 
-				.box .image.featured img{
+				.box img{
 					width: 100%;
-					object-fit: cover;
+					height: 10px !important;
 				}
 
 		/* Wrappers */
